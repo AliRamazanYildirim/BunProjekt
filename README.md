@@ -4,7 +4,7 @@ Bun ist ein schneller Paketmanager, Test-Runner und JavaScript-Laufzeitumgebung 
 
 ## Installation
 
-Use the package manager [npm](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager bun.
 
 ```bash
 curl -fsSL https://bun.sh/install | bash
