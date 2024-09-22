@@ -50,6 +50,18 @@ Hier sind einige grundlegende Anwendungsbereiche von Bun:
 
 Bun ist ein leistungs- und geschwindigkeitsorientiertes Werkzeug, das speziell entwickelt wurde, um den Entwicklungsprozess in großen Projekten zu beschleunigen.
 
+## Runtime Test für Node.js und Bun
+
+Um die Leistung von Node.js und Bun zu vergleichen, können Sie den folgenden Laufzeittest ausführen:
+
+### Testcode
+
+![Entwicklungsserver starten](assets/code1.png)
+
+### Die Leistung von Node.js und Bun
+
+![Tests ausführen](assets/code.png)
+
 ## Contributing
 
 Pull Requests sind willkommen. Für größere Änderungen öffnen Sie bitte zuerst ein Issue, um zu besprechen, was Sie ändern möchten. Bitte stellen Sie sicher, dass Sie die Tests entsprechend aktualisieren.
